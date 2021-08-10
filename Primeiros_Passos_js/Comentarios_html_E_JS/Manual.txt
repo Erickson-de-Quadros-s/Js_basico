@@ -1,0 +1,24 @@
+Cometario em html
+<!--Tudo que está aqui dentro é um comentario em html-->
+
+Comentario unica linha js
+//Tudo que estiver aqui dentro vai ficar comentado
+
+Comentario de multiplas linhas
+/*  Tudo
+        que estiver
+    aqui 
+        dentro
+    é comentario
+*/
+
+<--------------------ATIVIDADE---------------->
+1- Na tua branch criada 
+2- Criar 2 arquivos dentro desta pasta Add_Arquivo com o nome index.html e index.js
+3- Dentro do arquivo index.html criar estrutura basica html
+4- Comentar comentar oque é cada tag "se não souber alguma usar nosso amigo google haha, isso vai te ajudar a lembrar um pouco das coisas de html"
+4- Vincular o arquivo index.js dentro do arquivo index.html
+5- Dentro do arquivo index.js criar uma funcao console.log("testando js no html") 
+6- Após o console.log("testando js no html") explicar com suas palavras oq isto faz com um mentario de unica linha
+7- Criar 3 console.log() um em cada linha e depois comentar ele com um comentario de multiplas linhas
+8- Fazer um merge com a master
