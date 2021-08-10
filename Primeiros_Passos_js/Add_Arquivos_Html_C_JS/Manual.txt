@@ -1,0 +1,21 @@
+Atalho para criar um arquivo base html = ctrl + ! "vai criar um arquivo html"
+
+Installar live server para rodar o html na maquina sem precisar ficar atualizado toda 
+hora, para abrir com live server só click em cima do arquivo html na lateral do vs na esquerda
+open white live server
+
+Abrir console do google chorme = f12 em console "ali consegue ver todo os cod de javaScript"
+
+Como conectar um arquivo externo javaScript com html = dentro da tag body abrir outra tag <script src="./index.js"></script>, "agora tudo que escrever dentro de index.js vai aparecer dentro do console do  chrome.
+
+<--------------------ATIVIDADE---------------->
+1- Criar uma branch com teu nome 
+2- Criar 2 arquivos dentro desta pasta Add_Arquivo com o nome index.html e index.js
+3- Dentro do arquivo index.html criar estrutura basica html
+4- Vincular o arquivo index.js dentro do arquivo index.html
+5- Dentro do arquivo index.js criar uma funcao console.log("testando js no html") 
+6- Dar um commit
+7- Fazer um merge com a master
+
+
+
